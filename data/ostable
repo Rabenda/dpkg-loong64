@@ -24,6 +24,9 @@ eabihf-gnu-linux	linux-gnueabihf		linux[^-]*-gnueabihf
 eabi-gnu-linux		linux-gnueabi		linux[^-]*-gnueabi
 abin32-gnu-linux	linux-gnuabin32		linux[^-]*-gnuabin32
 abi64-gnu-linux		linux-gnuabi64		linux[^-]*-gnuabi64
+f64-gnu-linux		linux-gnuf64		linux[^-]*-gnuf64
+f32-gnu-linux		linux-gnuf32		linux[^-]*-gnuf32
+sf-gnu-linux		linux-gnusf		linux[^-]*-gnusf
 spe-gnu-linux		linux-gnuspe		linux[^-]*-gnuspe
 x32-gnu-linux		linux-gnux32		linux[^-]*-gnux32
 ilp32-gnu-linux		linux-gnu_ilp32		linux[^-]*-gnu_ilp32
